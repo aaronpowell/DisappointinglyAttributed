@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>DisappointinglyAttributed</id>
+        <version>1.0.0</version>
+        <title>Disappointingly Attributed</title>
+        <authors>Aaron Powell</authors>
+        <owners>Aaron Powell</owners>
+        <licenseUrl>https://github.com/aaronpowell/DisappointinglyAttributed/blob/master/License.md</licenseUrl>
+        <projectUrl>https://github.com/aaronpowell/DisappointinglyAttributed/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Express just how dissapointed you are in the code with attributes.</description>
+        <copyright>Copyright 2014</copyright>
+        <tags>code-style dissapointment fsharp</tags>
+    </metadata>
+    <files>
+        <file src="bin\Release\DisappointinglyAttributed.dll" target="lib\net45" />
+    </files>
+</package>

@@ -26,6 +26,10 @@ module Utilities =
     //stuff
 ```
 
+# Install
+
+`PM> Install-Package DisappointinglyAttributed`
+
 # Copyright
 
 Aaron Powell 2014
